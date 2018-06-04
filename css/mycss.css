@@ -48,7 +48,7 @@
 
 .column {
   float: left;
-  width: 33.3%;
+  width: 25%;
   margin-bottom: 16px;
   padding: 0 8px;
 }
@@ -77,3 +77,13 @@
 .title {
   color: grey;
 }
+
+.contact-info{color:#AAAAAA;}
+
+.contact-hover1:hover{color:#0000FF;
+                      text-decoration:underline;}
+					  
+.contact-hover2:hover{color:#FF3333;
+                      text-decoration:underline;}
+.contact-pa{color:#ffffff;}
+					  
