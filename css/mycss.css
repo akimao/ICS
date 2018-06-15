@@ -1,3 +1,18 @@
+/*首頁字幕*/
+.light-brand{
+ text-shadow: 0 0 20px orange;}
+.light-header{
+ text-shadow: 10px 0 20px white;}
+.header-btn{
+ color: white;
+ background-color:	orange;}
+.header-btn:hover{
+ color: white;
+ text-shadow: 0 0 20px white;}
+.title-text:hover{
+	font-size:100%;
+}
+ 
 /*contact資訊*/
  box-sizing: border-box;
 }
