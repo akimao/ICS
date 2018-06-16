@@ -12,6 +12,18 @@
 .title-text:hover{
 	font-size:100%;
 }
+
+/*跳到第一頁*/
+.sticky-icon {position: fixed;
+              bottom: 20px;
+              right: 20px;}
+			  
+.sticky-icon2 {position: fixed;
+              bottom: 40px;
+              right: 20px;}
+
+/*關於資傳-資傳基地台*/
+
  
 /*contact資訊*/
  box-sizing: border-box;
@@ -71,7 +83,7 @@
 
 .table-pra {
     padding: 5px;
-    text-align:left ;    
+    text-align:justify ;    
 }
 
 .table-th {   
