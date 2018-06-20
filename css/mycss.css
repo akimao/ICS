@@ -4,6 +4,8 @@
 .light-header{
  text-shadow: 10px 0 20px white;}
 .header-btn{
+	position:relative;
+top:150px;
  color: white;
  background-color:	orange;}
 .header-btn:hover{
